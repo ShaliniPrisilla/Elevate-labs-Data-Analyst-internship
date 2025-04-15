@@ -1,5 +1,5 @@
 
-# 🛒 Sales Data Analysis - Task 1
+# 🛒 Task 1 : : Data Cleaning and Preprocessing
 
 This project focuses on basic exploratory data analysis (EDA) of a sales dataset. It involves reading, displaying, and checking for missing data in the dataset.
 
