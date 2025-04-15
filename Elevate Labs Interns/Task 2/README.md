@@ -1,4 +1,4 @@
-# Data Visualization: Storytelling
+# Task 4 : Data Visualization and Storytelling
 
 ![data_story3_sq-1](https://github.com/Art1star/Data_Visualization_Story_Telling/assets/70962598/c44e7c77-6134-432c-add6-1bf5a4ca17e7)
 
