@@ -1,6 +1,5 @@
 
-# 📊 Amazon Sales Report SQL Project
-
+# 📊 Task 3 : SQL for Data Analysis
 This project focuses on analyzing an Amazon sales dataset using SQL. It involves data cleaning, transformation, normalization into separate tables, and executing insightful queries for business analysis.
 
 ---
